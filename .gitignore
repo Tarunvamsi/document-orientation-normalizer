@@ -1,0 +1,39 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+pdfenv/
+venv/
+.env/
+.venv/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Generated output files
+output.pdf
+output.docx
+final.pdf
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# PyMuPDF / pypdf clones (if these are local library directories)
+pymupdf/
+pypdf/
